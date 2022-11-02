@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Calaf-Ebra
+- 👋 Hi, I’m @Calaf_Eabra
 - 👀 I’m interested in data analytics and IoT
 - 🌱 I’m currently learning Machine laerning for NLP
 - 💞️ I’m looking to collaborate on ML-based IoT projects
